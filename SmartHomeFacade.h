@@ -1,6 +1,6 @@
 /****************/
-// Mã sinh viên: [Điền mã sinh viên]
-// Họ tên: [Điền họ tên]
+// Mã sinh viên: 202419074
+// Họ tên: Vũ Thành Lâm
 /****************/
 #ifndef SMART_HOME_FACADE_H
 #define SMART_HOME_FACADE_H
