@@ -1,0 +1,19 @@
+/****************/
+// Mã sinh viên: [Điền mã sinh viên]
+// Họ tên: [Điền họ tên]
+/****************/
+#ifndef DEVICE_FACTORY_H
+#define DEVICE_FACTORY_H
+
+#include "DeviceInterfaces.h"
+#include <memory>
+#include <string>
+
+// Factory tập trung việc khởi tạo và lựa chọn lớp thiết bị cụ thể.
+class DeviceFactory {
+public:
+    static std::unique_ptr<IDevice> Create(const std::string& type,
+                                           const std::string& name);
+};
+
+#endif // DEVICE_FACTORY_H
