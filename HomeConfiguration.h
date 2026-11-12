@@ -1,6 +1,6 @@
 /****************/
-// Mã sinh viên: [Điền mã sinh viên]
-// Họ tên: [Điền họ tên]
+// Mã sinh viên: 202419074
+// Họ tên: Vũ Thành Lâm
 /****************/
 #ifndef HOME_CONFIGURATION_H
 #define HOME_CONFIGURATION_H
